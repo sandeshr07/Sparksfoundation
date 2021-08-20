@@ -2,9 +2,9 @@
 ### Internship Task #1: Basic Banking System
 
 > A basic banking system
-![Preview](/static/preview.png)
+![Preview](/static/preview.PNG)
 
-[LIVE DEMO](https://harshalgrow.000webhostapp.com)
+[LIVE DEMO]
 
 Project Specifications:
 
