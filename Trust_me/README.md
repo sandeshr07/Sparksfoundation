@@ -2,14 +2,14 @@
 ### Internship Task #1: Basic Banking System
 
 > A basic banking system
-![Preview](/static/preview.PNG)
+![Preview](/static/preview.png)
 
-[LIVE DEMO]
+[LIVE DEMO](https://youtu.be/j1ktzpFuuOg)
 
 Project Specifications:
 
 1. A basic banking web-app used to transfer money between multiple users.
-2. The project contains 10 dummy users. A new dummy user can also be created. 
+2. The project contains 4 dummy users. A new dummy user can also be created. 
 3. It features user validation for transfer of money i.e. No negative, zero value can be transferred. 
 4. Also, if the balance of the sender is insufficient, an alert message is displayed for the same.
 5. All Transaction History is displayed to the user with timestamp. 
